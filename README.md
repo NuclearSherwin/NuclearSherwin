@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mai Dinh Phong
-- 👀 I’m interested in ... coding
-- 🌱 I’m currently learning ... coding and english
+- 👀 I’m interested in coding at C# programming language
+- 🌱 I’m currently learning coding and english 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
