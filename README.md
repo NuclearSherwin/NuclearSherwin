@@ -21,7 +21,7 @@
 
 - 💬 Ask me about **ASP.NET core, C#**
 
-- 📫 How to reach me **paika@gmail.com or phongspacenasa@gmail.com**
+- 📫 How to reach me **paika2060@gmail.com or phongspacenasa@gmail.com**
 
 - ⚡
 
