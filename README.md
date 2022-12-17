@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Mai Dinh Phong (Paika) </h1>
 <h3 align="center">A passionate back-end developer from Vietnam</h3>
 
-<img align="right" alt="Coding" width="450" src="https://i.pinimg.com/originals/8f/31/bf/8f31bfefab54b77a1a58d146412ab953.gif">
+<img align="right" alt="Coding" width="450" src="https://images.squarespace-cdn.com/content/v1/5efb7a015dc2ac0077a81ea5/fd4219a6-6b71-4b78-9bf2-9e3fbcb86e75/helloworld.gif?format=500w">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nuclearsherwin&label=Profile%20views&color=0e75b6&style=flat" alt="nuclearsherwin" /> </p>
