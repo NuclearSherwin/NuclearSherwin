@@ -1,7 +1,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Mai Dinh Phong (Paika) </h1>
+<h1 align="center">Hi 👋, I'm Phong AKA (Paika) </h1>
 <h3 align="center">A passionate back-end developer from Vietnam</h3>
 
 <div style="top: 50px;">
