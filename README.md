@@ -5,7 +5,7 @@
 <h3 align="center">A passionate back-end developer from Vietnam</h3>
 
 <div style="top: 50px;">
-  <img align="right" alt="Coding" width="450" src="https://images.squarespace-cdn.com/content/v1/5efb7a015dc2ac0077a81ea5/fd4219a6-6b71-4b78-9bf2-9e3fbcb86e75/helloworld.gif?format=500w">
+  <img align="right" alt="Coding" width="450" src="https://i.pinimg.com/originals/bb/cf/be/bbcfbe9eb33bedfcac02bf66c350fa6f.gif?format=500w">
 </div>
 
 
