@@ -5,7 +5,7 @@
 <h3 align="center">A passionate back-end developer from Vietnam</h3>
 
 <div style="top: 50px;">
-  <img align="right" alt="Coding" width="450" src="https://i.pinimg.com/originals/bb/cf/be/bbcfbe9eb33bedfcac02bf66c350fa6f.gif?format=500w">
+  <img align="right" alt="Coding" width="450" src="https://i.pinimg.com/originals/bb/cf/be/bbcfbe9eb33bedfcac02bf66c350fa6f.gif">
 </div>
 
 
