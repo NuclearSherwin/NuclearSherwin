@@ -2,10 +2,10 @@
 
 
 <h1 align="center">Hi! </h1>
-<h3 align="center">A passionate back-end developer from Vietnam</h3>
+<!-- <h3 align="center"></h3> -->
 
 <div style="top: 50px;">
-  <img align="right" alt="Coding" width="450" src="https://i.pinimg.com/originals/bb/cf/be/bbcfbe9eb33bedfcac02bf66c350fa6f.gif">
+  <img align="right" alt="Coding" width="450" src="https://i.pinimg.com/originals/41/8a/11/418a118b48d749319f88a9604830b8d3.gif">
 </div>
 
 
