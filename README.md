@@ -5,7 +5,7 @@
 <!-- <h3 align="center"></h3> -->
 
 <div style="top: 50px;">
-  <img align="right" alt="Coding" width="450" src="https://i.pinimg.com/originals/41/8a/11/418a118b48d749319f88a9604830b8d3.gif">
+  <img align="right" alt="Coding" width="450" src="https://static.wikia.nocookie.net/jujutsu-kaisen/images/a/af/Malevolent_Shrine%27s_power_%28Anime%29.gif/revision/latest/scale-to-width/360?cb=20231117003507.gif">
 </div>
 
 
