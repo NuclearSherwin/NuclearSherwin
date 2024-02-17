@@ -13,7 +13,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 👋 Hi, I’m @Mai Dinh Phong
+- 👋 Hi, I’m Phong
 - 👀 I’m interested in coding at ASP dotnet programming
 - 🌱 I’m currently learning coding skills and english
 - 💞️ I’m looking to collaborate on ...
